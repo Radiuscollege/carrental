@@ -1,0 +1,15 @@
+Project Car Rental Intense
+
+Inleiding
+We gaan met Laravel een website maken voor een autoverhuurbedrijf. Klanten moeten auto’s kunnen reserveren, hun reserveringen in kunnen zien en een huurovereenkomst kunnen inzien/printen. Het verhuurbedrijf heeft auto’s in verschillende categorieën, die bijgehouden worden door de administrator.
+
+User Stories
+•	Als klant wil ik kunnen inloggen, zodat ik mijn huurovereenkomsten kan zien en een nieuwe huurovereenkomst kan aanvragen
+•	Als klant wil ik een auto kunnen selecteren, zodat ik zelf kan kiezen welke auto ik huur
+•	Als klant wil ik kunnen zien welke auto’s in welke categorieën zitten, zodat ik de categorie kan kiezen die het beste bij mijn wensen past
+•	Als klant wil ik kunnen opgeven van en tot wanneer ik de auto wil huren
+•	Als klant wil ik bij het afronden van mijn huur een huurovereenkomst aangeboden krijgen met de door mij ingevulde details, zodat voor iedereen precies duidelijk is wat ik wanneer, waar en voor hoe lang heb gehuurd
+•	Als klant wil ik dat de beschikbaarheid wordt gecontroleerd voordat de verhuur wordt afgerond
+•	Als klant wil ik dat ik auto’s van verschillende categorieën kan kiezen
+•	Als administrator wil ik autocategorieën kunnen toevoegen en bewerken
+•	Als administrator wil ik auto’s aan bepaalde categorieën kunnen toevoegen en verwijderen
